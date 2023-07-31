@@ -1,6 +1,6 @@
 
 
-# HOSPITAL MANAGEMENT DATABASE PROJECT
+# Hospital Management Database Project
   
 This is a README file for Database Systems Term Project. This README file includes instructions of how to run the code properly and understanding the usage of each function.
 
